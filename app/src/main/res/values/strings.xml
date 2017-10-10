@@ -13,4 +13,7 @@
     <string name="white">White</string>
     <string name="yellow">Yellow</string>
     <string name="redProgress">Red: %1d</string>
+    <string name="greenProgress">Green: %1d</string>
+    <string name="blueProgress">Blue: %1d</string>
+    <string name="alphaProgress">Alpha: %1d</string>
 </resources>
