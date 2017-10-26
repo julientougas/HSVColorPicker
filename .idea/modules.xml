@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RGB-A.iml" filepath="$PROJECT_DIR$/RGB-A.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RGBA.iml" filepath="$PROJECT_DIR$/RGBA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midterm.iml" filepath="$PROJECT_DIR$/midterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midtermApp/midtermApp.iml" filepath="$PROJECT_DIR$/midtermApp/midtermApp.iml" />
     </modules>
   </component>
 </project>
